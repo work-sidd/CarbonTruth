@@ -4,19 +4,7 @@
 
 ![EcoMeter Logo](./Logo.png)
 
----
 
-## 🚀 Live Preview
-
-[🌐 View Site](https://vasu-uu.github.io/EcoMeter/)
-
----
-
-## 🎥 Demo Video
-
-[▶️ Watch Demo](https://vimeo.com/1097254159/a0ec1cfcde?ts=0&share=copy)
-
----
 
 ## ✨ Features
 
@@ -39,22 +27,6 @@
 | JavaScript (Vanilla) | Input handling and logic              |
 | Chart.js (CDN)       | Emissions breakdown visualization     |
 | Lucide Icons (CDN)   | Icons for categories and UI polish    |
-
----
-
-## 👥 Team: NullPointers
-
-### 🧑‍💻 [Vasudev V](https://github.com/Vasu-uu)
-- Developed CO₂ **calculation logic** in JavaScript  
-- Integrated and configured **Chart.js**  
-- Handled all **DOM updates, result formatting, and interactivity**  
-- Tested and fine-tuned logic and UI behavior  
-
-### 👩‍💻 [Lakshmi Ratheesan](https://github.com/lakshmir-25)
-- Designed the full **HTML structure and layout**  
-- Implemented styling using **Tailwind CSS**  
-- Authored **sustainability tips and labels**  
-- Added **form styling, accessibility improvements, and icons**  
 
 ---
 
@@ -90,14 +62,5 @@
 
 ---
 
-## 🧭 Hackathon Context
-
-**EcoMeter** was built as part of **Sankalp 101 – India’s First Virtual 2D Environment Hackathon**, a 24-hour immersive online event hosted on **Gather.town**.
-
-> Sankalp 101 is India’s first-ever 24-hour virtual 2D hackathon. This immersive online experience eliminates physical barriers, allowing participants to collaborate, innovate, and build impactful solutions in a fully interactive virtual space.
-
----
-
-> Made with 💚 by Team **NullPointers** – Vasudev V & Lakshmi Ratheesan
 
 

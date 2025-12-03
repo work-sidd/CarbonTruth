@@ -79,33 +79,6 @@ Your data stays yours.
 
 ---
 
-## 📆 Installation
-
-> Chrome Web Store release coming soon!
-
-To install manually:
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/Yousuf-cse/TokenFlow.git 
-cd tokenflow
-
-# 2. Install dependencies
-pnpm install
-
-# 3. Build the project
-pnpm run build
-```
-
-Then:
-
-1. Go to `chrome://extensions`
-2. Enable **Developer Mode**
-3. Click **Load unpacked**
-4. Select the `/dist` (or `/build`) folder
-
----
-
 ## 🧪 Use Cases
 
 - 🧑‍💻 Developers avoiding prompt bloat in ChatGPT  
@@ -132,30 +105,4 @@ Cutting just a few tokens per prompt—at scale—saves:
 
 > TokenFlow helps you reduce compute load, improve model speed, and use AI more responsibly.
 
----
 
-## 🧑‍💻 Authors
-
-Built with care by the **TokenFlow Team**  
-at the *HexaFalls Hackathon*, JIS University, 2025
-
-- Yousuf Mallik 
-- Sree Gopal Saha  
-- Kartik Barman  
-- Sushanta Ruidas
-
----
-
-## 💡 Contribute
-
-Have ideas or want to add support for other LLMs (e.g., Mistral, Perplexity)?  
-Open an issue or a PR — contributions are welcome!
-
----
-
-## ⚠ Disclaimer
-
-TokenFlow provides **estimated** impact metrics based on public LLM energy benchmarks.  
-Actual values may vary depending on model, provider, and usage patterns.
-
----
