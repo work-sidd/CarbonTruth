@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "TokenFlow",
+  "version": "0.0.1",
+  "description": "A Chrome extension that optimizes prompts to save tokens, reduce emissions, and help the planet.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icons/default.png"
+  },
+ "icons": {
+    "16": "icons/default.png",
+    "32": "icons/default.png",
+    "48": "icons/default.png",
+    "128": "icons/default.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
