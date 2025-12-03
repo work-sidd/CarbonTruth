@@ -60,6 +60,9 @@
 ### 📊 Results and Tips  
 ![Screenshot – Results](./Screenshot/Capture2.PNG)
 
+### Celebrity Comparison
+![Screenshot – Inequality Visualizer](./Screenshot/Capture3.PNG)
+
 ---
 
 
